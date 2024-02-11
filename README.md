@@ -1,6 +1,6 @@
 "# youtube-downloader" 
 
-git clonehttps://github.com/BrightProgrammer7/youtube-downloader.git
+git clone https://github.com/BrightProgrammer7/youtube-downloader.git
 
 cd youtube-downloader\
 
