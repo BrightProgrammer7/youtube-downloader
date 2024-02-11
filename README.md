@@ -8,3 +8,6 @@ py -3 -m venv .venv
 
 pip install -r requirements.txt
 
+python video_downloader.py
+
+python playlist_downloader.py
