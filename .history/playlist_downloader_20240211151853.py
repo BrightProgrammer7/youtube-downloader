@@ -10,7 +10,7 @@ playlist = Playlist(playlist_link)
 for video in playlist:
     link = YouTube(video)
     link.streams.get_highest_resolution().download(
-        "C:/Users/cleve/Videos/Youtube")
+        "C:/Users/user/Videos/Youtube")
         
 def finish():
     print("Download Done")
